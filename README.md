@@ -9,7 +9,7 @@
 - Análise espacial;
 - Interdição do poço localizado na Broad Street (maior número de casos próximo ao poço).
 
-O geoprocessamento consiste na utilização de técnicas computacionais e matemáticas para obter e analisar informações espaciais. Muitas vezes um conjunto de informações não consegue ser analisado se não estiver diretamente relacionado à posição dos acontecimentos, pois existe uma relação espacial entre os dados (por exemplo: relação entre poços contaminados e residências com casos de morte por cólera). Todos os dados envolvidos devem ser **georeferenciados**, ou seja, devem possuir uma localização geográfica precisa como, por exemplo, endereço, coordenadas (latitude, longitude e altitude), etc. 
+O geoprocessamento consiste na utilização de técnicas computacionais e matemáticas para obter e analisar informações espaciais. Muitas vezes um conjunto de informações não consegue ser analisado se não estiver diretamente relacionado à posição dos acontecimentos, pois existe uma relação espacial entre os dados (por exemplo: relação entre poços contaminados e residências com casos de morte por cólera). Todos os dados envolvidos devem ser **georeferenciados**, ou seja, devem possuir uma localização geográfica precisa como, por exemplo, endereço, coordenadas (latitude, longitude e altitude), etc. É comum a confusão de três conceitos diferentes como: geoprocessamento, sensoriamento remoto e sistemas de informação geográfica.
 
 ### Geotecnologias
 
