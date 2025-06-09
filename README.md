@@ -48,3 +48,9 @@ O geoprocessamento faz uso de geotecnologias para coleta, armazenamento, tratame
 - Prevenção de desastres naturais;
 - Saúde pública: mapeamento de endemias;
 - Análises de associação de localizações: restaurantes comunitários, clássicos ou tradicionais, feiras livres, centros de assitência social, bibliotecas, museus, escolas, áreas esportivas, terminais de ônibus, estações e linhas de metrô, estações de trem, faixas exclusivas de ônibus, espaços culturais e mercados municipais por bairros e regiões de um estado para ver a distribuição e acesso à população.
+
+### Referências
+
+- https://www.youtube.com/watch?v=RK8JCcGx1xA&t=22s
+- https://www.youtube.com/watch?v=xagXyp9C5ko&t=4781s
+- https://www.youtube.com/watch?v=Z29zCfM-zK4&t=1204s
