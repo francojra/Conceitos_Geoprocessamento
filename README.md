@@ -26,7 +26,22 @@ O geoprocessamento faz uso de geotecnologias para coleta, armazenamento, tratame
 - Mapas de temperatura;
 - Acompanhamento de desmatamento por plataformas online como o Terra Brasilis;
 - Trânsito em tempo real;
-- Acompanhamento de casos de doenças transmissíveis;
 - Sensoriamento remoto que permite a captura d eimagens em diferentes comprimentos de ondas. Dependendo do comprimento de onda cada objeto irá refletir uma porção da radiação. Uma imagem padrão é formada por três bandas conhecidas como RGB, outras imagens apresentam sete ou oito bandas com sensores que são sensíveis ao infravermelho, ultravioleta, sensíveis ao calor, etc. Os principais satélites são: NOAA, LANDSAT, SPOT, GOES, IKONOS, CBERS, etc. As imagens orbitais são obtidas por satélites;
 - Laser scanning: faz uma varredura do ambiente e gera pontos tridimensionais, gerando imagens em 3D;
-- Avaliação de desastres ambientais como tsunamis.
+- Avaliação de desastres ambientais como tsunamis;
+- Demarcação de loteamentos urbanos ou estudos de escoamento de trânsito em grandes centros urbanos;
+- Demarcação de referências de empreendimentos como estradas, pontes e outras edificações;
+- Acompanhamento de obras e empreendimentos;
+- Planejamento e gestão de abastecimento de água, coleta de esgoto, etc.;
+- Mapeamento de uso e ocupação do solo (vegetação, agricultura, pastagem, áreas urbanas, reservatórios de água, rios e lagos, etc.).
+- Mapeamento de espécies vegetais e utilização de imagens de satélite para classificar tipos de vegetação;
+- Monitoramento de mananciais e áreas sensíveis;
+- Apoio na execução de políticas públicas de gestão de risco;
+- Urbanismo e gestão de cidades;
+- Utilização de sensores de radares para prospecção de minérios;
+- Logística: determinação de melhores rotas para distribuição de cargas;
+- Gestão municipal: postos de saúde x população com necessidade de atendimento, localização das escolas x endereço de alunos em potencial, pavimentação x ruas de maior movimento;
+- Agronegócio: monitoramento e previsão de safras, planejamento e uso do solo, gestão de bacias hidrográficas, tratamento de curvas de nível para plantio e detecção de pragas;
+- Serviços públicos de saneamento, energia elétrica e telecomunicações;
+- Prevenção de desastres naturais;
+- Saúde pública: mapeamento de endemias.
