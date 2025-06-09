@@ -24,7 +24,7 @@ O geoprocessamento faz uso de geotecnologias para coleta, armazenamento, tratame
 
 - GPS, Google Maps, Google Earth;
 - Mapas de temperatura;
-- Acompanhamento de desmatamento por plataformas online como o Terra Brasilis;
+- Acompanhamento de desmatamento da vegetação;
 - Trânsito em tempo real;
 - Sensoriamento remoto que permite a captura d eimagens em diferentes comprimentos de ondas. Dependendo do comprimento de onda cada objeto irá refletir uma porção da radiação. Uma imagem padrão é formada por três bandas conhecidas como RGB, outras imagens apresentam sete ou oito bandas com sensores que são sensíveis ao infravermelho, ultravioleta, sensíveis ao calor, etc. Os principais satélites são: NOAA, LANDSAT, SPOT, GOES, IKONOS, CBERS, etc. As imagens orbitais são obtidas por satélites;
 - Laser scanning: faz uma varredura do ambiente e gera pontos tridimensionais, gerando imagens em 3D;
