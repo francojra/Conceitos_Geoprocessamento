@@ -44,4 +44,5 @@ O geoprocessamento faz uso de geotecnologias para coleta, armazenamento, tratame
 - Agronegócio: monitoramento e previsão de safras, planejamento e uso do solo, gestão de bacias hidrográficas, tratamento de curvas de nível para plantio e detecção de pragas;
 - Serviços públicos de saneamento, energia elétrica e telecomunicações;
 - Prevenção de desastres naturais;
-- Saúde pública: mapeamento de endemias.
+- Saúde pública: mapeamento de endemias;
+- Análises de associação de localizações: restaurantes comunitários, clássicos ou tradicionais, feiras livres, centros de assitência social, bibliotecas, museus, escolas, áreas esportivas, terminais de ônibus, estações e linhas de metrô, estações de trem, faixas exclusivas de ônibus, espaços culturais e mercados municipais por bairros e regiões de um estado para ver a distribuição e acesso à população.
